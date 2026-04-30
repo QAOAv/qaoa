@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this repo, please cite it as below."
+authors:
+- family-names: "Kumar"
+  given-names: "Mithilesh"
+  orcid: "https://orcid.org/0009-0005-0450-1843"
+- family-names: "Mattaparthi"
+  given-names: "Sanjana"
+  orcid: "https://orcid.org/0009-0008-0000-0000"
+title: "QAOA Library"
+version: 1.0.0
+doi: 10.5281/zenodo.19907544
+date-released: 2026-04-30
+url: "https://github.com/QAOAv/qaoa"
